@@ -1,0 +1,7 @@
+.container{width: 800px;max-width: 80%;margin: auto;height: 80vh;margin-top: 10vh;}
+.contentBody{height:80vh;overflow: auto;}
+.card{margin-top:20px;margin-bottom:20px;}
+.contentTitle{margin:auto;text-align: center;margin-top:20px;font-weight: bold;}
+.contentJoke li{position:relative;padding: 10px;background: #F9F9F9;border-radius: 10px;overflow: hidden;}
+.contentJoke p{margin:0px;width: 80%;}
+.contentJoke span{color:gray;float: right;}
